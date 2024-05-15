@@ -9,11 +9,11 @@ var ModelList = []string{
 	"ERNIE-Tiny-8K",
 	"ERNIE-Character-8K",
 	"ERNIE-Functions-8K",
-	"ERNIE-Bot-4",
-	"ERNIE-Bot-8K",
-	"ERNIE-Bot",
-	"ERNIE-Speed",
-	"ERNIE-Bot-turbo",
+	//"ERNIE-Bot-4",
+	//"ERNIE-Bot-8K",
+	//"ERNIE-Bot",
+	//"ERNIE-Speed",
+	//"ERNIE-Bot-turbo",
 	"Embedding-V1",
 }
 
